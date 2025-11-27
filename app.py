@@ -33,7 +33,7 @@ def load_stars_safe():
 # =========================================================
 # Streamlit UI
 # =========================================================
-st.title("⭐ 성도에서 별 지우기 문제 생성기 (Render 버전)")
+st.title("성도에서 별 지우기 문제 생성기 (Render 버전)")
 
 col1, col2 = st.columns(2)
 with col1:
@@ -170,3 +170,4 @@ starplot==0.4.1
 numpy
 pandas
 skyfield
+
