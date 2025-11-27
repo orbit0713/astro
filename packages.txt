@@ -1,0 +1,6 @@
+duckdb
+duckdb-extension-spatial
+duckdb-extension-httpfs
+duckdb-extension-json
+duckdb-extension-parquet
+duckdb-extension-arrow
