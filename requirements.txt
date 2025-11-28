@@ -3,3 +3,4 @@ starplot==0.4.1
 numpy
 pandas
 skyfield
+setuptools
