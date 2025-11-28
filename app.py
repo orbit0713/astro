@@ -160,14 +160,3 @@ if go:
     st.subheader("삭제된 별 목록 (HIP / 등급)")
     st.write([f"HIP {hip} | mag={df[df.hip == hip]['magnitude'].values[0]:.2f}"
               for hip in missing_hips])
-📌 requirements.txt (Render용 최종 버전)
-이렇게 GitHub에 업로드하자:
-
-makefile
-코드 복사
-streamlit==1.31.0
-starplot==0.4.1
-numpy
-pandas
-skyfield
-
