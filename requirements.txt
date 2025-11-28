@@ -1,4 +1,5 @@
-﻿streamlit
-starplot
-matplotlib
+streamlit==1.31.0
+starplot==0.4.1
+numpy
+pandas
 skyfield
